@@ -76,6 +76,5 @@ public class Fragment_step5 extends Fragment {
                         mSeekBar.setProgress(value);
                     }
                 });
-        // mSeekBarViewModel.seekbarValue.observe(...
     }
 }
